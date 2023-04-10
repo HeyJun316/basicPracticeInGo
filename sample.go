@@ -1,4 +1,4 @@
-// need to write 'main' down
+// need 'main' down
 package main
 import "fmt"
 
